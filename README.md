@@ -1,7 +1,7 @@
 # Components
 
 - [X] Text
-- [ ] Heading
+- [X] Heading
 - [X] Box
 - [ ] Button
 - [ ] TextInput
