@@ -4,7 +4,9 @@ import { TextInput, TextInputProps, Box, Text } from '@ignite-ui/react'
 export default {
   title: 'Form/Text Input',
   component: TextInput,
-  args: {},
+  args: {
+    disabled: false,
+  },
   argTypes: {
     onChange: {
       action: 'change',

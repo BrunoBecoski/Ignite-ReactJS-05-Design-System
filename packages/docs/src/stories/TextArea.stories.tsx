@@ -4,7 +4,9 @@ import { TextArea, TextAreaProps, Box, Text } from '@ignite-ui/react'
 export default {
   title: 'Form/Text Area',
   component: TextArea,
-  args: {},
+  args: {
+    disabled: false,
+  },
   argTypes: {
     onChange: {
       action: 'change',
