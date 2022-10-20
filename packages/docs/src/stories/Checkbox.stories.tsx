@@ -5,6 +5,11 @@ export default {
   title: 'Form/Checkbox',
   component: Checkbox,
   args: {},
+  argTypes: {
+    onClick: {
+      action: 'click',
+    },
+  },
   decorators: [
     (Story) => {
       return (

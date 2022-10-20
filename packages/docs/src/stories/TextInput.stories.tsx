@@ -5,6 +5,11 @@ export default {
   title: 'Form/Text Input',
   component: TextInput,
   args: {},
+  argTypes: {
+    onChange: {
+      action: 'change',
+    },
+  },
   decorators: [
     (Story) => {
       return (
