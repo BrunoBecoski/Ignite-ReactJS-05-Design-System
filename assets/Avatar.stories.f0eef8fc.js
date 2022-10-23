@@ -1,0 +1,2 @@
+import{A as t,B as a}from"./index.c23a9433.js";import{j as o}from"./jsx-runtime.9c5de295.js";import"./index.167211c9.js";import"./iframe.cfb1fd54.js";import"./index.84327706.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/brunobecoski.png",alt:"Bruno Becoski"},argTypes:{src:{control:{type:"text"}}},decorators:[r=>o(a,{children:r()})]},m={},l={args:{src:void 0,alt:""}},d=["Primary","WithFallback"];export{m as Primary,l as WithFallback,d as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.f0eef8fc.js.map
