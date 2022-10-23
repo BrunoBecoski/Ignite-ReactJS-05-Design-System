@@ -1,6 +1,8 @@
 import { styled } from '../../styles'
 
 export const ToastContainer = styled('div', {
+  zIndex: 100,
+
   boxSizing: 'border-box',
   width: 360,
   display: 'flex',

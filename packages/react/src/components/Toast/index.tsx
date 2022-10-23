@@ -23,3 +23,5 @@ export function Toast({ title, description, onClose }: ToastProps) {
     </ToastContainer>
   )
 }
+
+Toast.displayName = 'Toast'
